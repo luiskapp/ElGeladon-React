@@ -1,6 +1,6 @@
 import { useState } from "react";
 import './PaletaLista.css';
-import { paletas } from '../mocks/paletas';
+import { paletas } from 'mocks/paletas';
 
 function PaletaLista() {
     const [paletaSelecionada, setPaletaSelecionada] = useState({});
