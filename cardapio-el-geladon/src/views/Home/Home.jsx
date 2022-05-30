@@ -1,6 +1,6 @@
-import "./Home.css";
-import PaletaLista from "components/PaletaLista/PaletaLista";
-import Navbar from "components/Navbar/Navbar";
+import './Home.css';
+import PaletaLista from 'components/PaletaLista/PaletaLista';
+import Navbar from 'components/Navbar/Navbar';
 
 function Home() {
   return (
